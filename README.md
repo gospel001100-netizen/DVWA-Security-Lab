@@ -9,38 +9,47 @@ Practice writeup on Damn Vulnerable Web App. Tested locally for education only.
 
 ## Findings
 
+## Findings
+
 ### 1. SQLi Auth Bypass: `' OR '1'='1`
 Bypassed login and listed all users
+
 ![Auth Bypass](1-auth-bypass.jpg)
 <img src="1-auth-bypass.jpg" width="700"/>
 
 ### 2. UNION SQLi
 Extracted user data with UNION attack
+
 ![UNION](2-union-sqli.jpg)
 <img src="2-union-sqli.jpg" width="700"/>
 
 ### 3. Brute Force Module
 No rate limiting at Low security level
+
 ![Bruteforce](3-bruteforce.jpg)
-<img src="3-bruteforce.jpg" width="700"/
+<img src="3-bruteforce.jpg" width="700"/>
 
 ### 4. XSS
 Reflected XSS found at Low security level
+
 ![XSS](4-xss.jpg)
 <img src="4-xss.jpg" width="700"/>
 
 ### 5. Command Injection
 OS commands executed via input field
+
 ![Command Injection](5-command-injection.jpg)
 <img src="5-command-injection.jpg" width="700"/>
 
 ### 6. File Inclusion
 Local file inclusion vulnerability
+
 ![File Inclusion](6-file-inclusion.jpg)
 <img src="6-file-inclusion.jpg" width="700"/>
 
 ### 7. Security Level
 DVWA set to Low security for testing
+
 ![Low Security](7-low-security.jpg)
 <img src="7-low-security.jpg" width="700"/>
 
