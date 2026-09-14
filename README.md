@@ -1,7 +1,7 @@
 # DVWA Security Lab 🔒
 
-[Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[Tools](https://img.shields.io/badge/Tools-DVWA%20%7C%20BurpSuite%20%7C%20Kali%20Linux-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tools](https://img.shields.io/badge/Tools-DVWA%20%7C%20BurpSuite%20%7C%20Kali%20Linux-blue)
 
 Practice writeup on Damn Vulnerable Web App. Tested locally for education only.
 
@@ -62,6 +62,8 @@ DVWA set to Low security for testing
 **Command Injection**: Use allowlists and avoid system calls with user input.  
 **File Inclusion**: Disable `allow_url_include` and validate file paths.
 
+## Disclaimer
+This project is for legal educational testing only on the DVWA lab environment. Do not use these techniques on systems without explicit permission.
 <img width="720" height="1483" alt="6966" src="https://github.com/user-attachments/assets/906a4ce4-79c1-400c-b49e-18de5076d93d" />
 <img width="720" height="715" alt="6961" src="https://github.com/user-attachments/assets/22945fce-be1e-4a81-b6f7-3c5d7debcea5" />
 <img width="720" height="779" alt="6962" src="https://github.com/user-attachments/assets/08624b1f-69a1-44c0-bafe-35a033b284d6" />
