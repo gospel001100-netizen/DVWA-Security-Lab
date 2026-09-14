@@ -1,15 +1,15 @@
 # DVWA Security Lab 🔒
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tools](https://img.shields.io/badge/Tools-DVWA%20%7C%20BurpSuite%20%7C%20Kali%20Linux-blue)
+
 Practice writeup on Damn Vulnerable Web App. Tested locally for education only.
 
 ## Tools Used
 - **DVWA** - Damn Vulnerable Web Application
-- **BurpSuite Community** - For intercepting requests
+- **BurpSuite Community** - For intercepting requests  
 - **Kali Linux / Android** - Testing environment
-
-## Findings
-
-## Findings
+- **Firefox** - Browser for testing
 
 ## Findings
 
@@ -55,6 +55,15 @@ DVWA set to Low security for testing
 ![Low Security](7-low-security.jpg)
 <img src="7-low-security.jpg" width="700"/>
 
+## Mitigation
+**SQL Injection**: Use Prepared Statements / Parameterized Queries.
+**XSS**: Implement input validation and output encoding.
+**Brute Force**: Add rate limiting and account lockout.
+**Command Injection**: Use allowlists and avoid system calls with user input.
+**File Inclusion**: Disable `allow_url_include` and validate file paths.
+
+## Disclaimer
+This project is for legal educational testing only on the DVWA lab environment. Do not use these techniques on systems without explicit permission.
 ## Mitigation
 <img width="720" height="1483" alt="6966" src="https://github.com/user-attachments/assets/906a4ce4-79c1-400c-b49e-18de5076d93d" />
 <img width="720" height="715" alt="6961" src="https://github.com/user-attachments/assets/22945fce-be1e-4a81-b6f7-3c5d7debcea5" />
