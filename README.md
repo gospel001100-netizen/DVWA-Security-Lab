@@ -22,7 +22,7 @@ Extracted user data with UNION attack
 ### 3. Brute Force Module
 No rate limiting at Low security level
 ![Bruteforce](3-bruteforce.jpg)
-<img src="3-bruteforce.jpg" width="700"/>
+<img src="3-bruteforce.jpg" width="700"/
 
 ### 4. XSS
 Reflected XSS found at Low security level
