@@ -1,3 +1,10 @@
+<img width="720" height="898" alt="6965" src="https://github.com/user-attachments/assets/f10ca8a1-dd32-4809-89ed-126465f2c041" />
+<img width="720" height="946" alt="6963" src="https://github.com/user-attachments/assets/9465bb54-1cc9-4434-b71e-ee1fd6b5e09f" />
+<img width="720" height="713" alt="6964" src="https://github.com/user-attachments/assets/ade3abe0-1297-4614-84d6-3f852691a67e" />
+<img width="720" height="943" alt="6957" src="https://github.com/user-attachments/assets/272f715d-8636-4389-92e9-d2194038e98b" />
+<img width="720" height="786" alt="6959" src="https://github.com/user-attachments/assets/de072a90-1ee2-4408-b102-7f697dd17896" />
+<img width="720" height="779" alt="6962" src="https://github.com/user-attachments/assets/57d27aed-2014-48cf-901e-af5427c0806d" />
+<img width="720" height="715" alt="6961" src="https://github.com/user-attachments/assets/c3415914-f2c1-4779-b888-86cdfb36c018" />
 # DVWA Security Lab 🔒
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
