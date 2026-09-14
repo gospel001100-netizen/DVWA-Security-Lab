@@ -1,6 +1,11 @@
-# DVWA Security Lab
+# DVWA Security Lab 🔒
 
 Practice writeup on Damn Vulnerable Web App. Tested locally for education only.
+
+## Tools Used
+- **DVWA** - Damn Vulnerable Web Application
+- **BurpSuite Community** - For intercepting requests
+- **Kali Linux / Android** - Testing environment
 
 ## Findings
 
@@ -40,13 +45,14 @@ DVWA set to Low security for testing
 <img src="7-low-security.jpg" width="700"/>
 
 ## Mitigation
+<img width="720" height="1483" alt="6966" src="https://github.com/user-attachments/assets/906a4ce4-79c1-400c-b49e-18de5076d93d" />
+<img width="720" height="715" alt="6961" src="https://github.com/user-attachments/assets/22945fce-be1e-4a81-b6f7-3c5d7debcea5" />
+<img width="720" height="779" alt="6962" src="https://github.com/user-attachments/assets/08624b1f-69a1-44c0-bafe-35a033b284d6" />
+<img width="720" height="946" alt="6963" src="https://github.com/user-attachments/assets/1f53ef97-4b39-4c5b-a362-779dabc1a7d8" />
+<img width="720" height="943" alt="6957" src="https://github.com/user-attachments/assets/9d311c54-f2b9-44fc-ad6e-b87302f9da97" />
+<img width="720" height="713" alt="6964" src="https://github.com/user-attachments/assets/2d1af168-fa1e-4b25-9324-4af5a363048d" />
+<img width="720" height="898" alt="6965" src="https://github.com/user-attachments/assets/04119497-32aa-41b1-9719-38df34ecde37" />
 Use Prepared Statements / Parameterized Queries to prevent SQL injection.
 
 ## Disclaimer
-For legal educational testing only on DVWA lab.<img width="720" height="715" alt="6961" src="https://github.com/user-attachments/assets/16720a47-85a9-4c45-a02a-3fd8763f4c14" />
-<img width="720" height="943" alt="6957" src="https://github.com/user-attachments/assets/837d0cf7-0282-4b29-a37c-75f6c24d002d" />
-<img width="720" height="946" alt="6963" src="https://github.com/user-attachments/assets/356e615f-78be-4720-9656-fdac35254306" />
-<img width="720" height="786" alt="6959" src="https://github.com/user-attachments/assets/64208000-bffc-414b-9122-e362f482cca8" />
-<img width="720" height="779" alt="6962" src="https://github.com/user-attachments/assets/7fd93ca6-3347-450e-854c-4f2606cee845" />
-<img width="720" height="713" alt="6964" src="https://github.com/user-attachments/assets/39c2aa7d-e1d2-479f-8e0b-51d4cff68f6f" />
-<img width="720" height="898" alt="6965" src="https://github.com/user-attachments/assets/d6426df6-dd97-4edf-9941-d8a4d02f3363" />
+For legal educational testing only on DVWA lab.
