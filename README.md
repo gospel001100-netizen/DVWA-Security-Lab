@@ -11,6 +11,8 @@ Practice writeup on Damn Vulnerable Web App. Tested locally for education only.
 
 ## Findings
 
+## Findings
+
 ### 1. SQLi Auth Bypass: `' OR '1'='1`
 Bypassed login and listed all users
 
