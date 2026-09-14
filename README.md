@@ -64,14 +64,3 @@ DVWA set to Low security for testing
 
 ## Disclaimer
 This project is for legal educational testing only on the DVWA lab environment. Do not use these techniques on systems without explicit permission.
-<img width="720" height="1483" alt="6966" src="https://github.com/user-attachments/assets/906a4ce4-79c1-400c-b49e-18de5076d93d" />
-<img width="720" height="715" alt="6961" src="https://github.com/user-attachments/assets/22945fce-be1e-4a81-b6f7-3c5d7debcea5" />
-<img width="720" height="779" alt="6962" src="https://github.com/user-attachments/assets/08624b1f-69a1-44c0-bafe-35a033b284d6" />
-<img width="720" height="946" alt="6963" src="https://github.com/user-attachments/assets/1f53ef97-4b39-4c5b-a362-779dabc1a7d8" />
-<img width="720" height="943" alt="6957" src="https://github.com/user-attachments/assets/9d311c54-f2b9-44fc-ad6e-b87302f9da97" />
-<img width="720" height="713" alt="6964" src="https://github.com/user-attachments/assets/2d1af168-fa1e-4b25-9324-4af5a363048d" />
-<img width="720" height="898" alt="6965" src="https://github.com/user-attachments/assets/04119497-32aa-41b1-9719-38df34ecde37" />
-Use Prepared Statements / Parameterized Queries to prevent SQL injection.
-
-## Disclaimer
-This project is for legal educational testing only on the DVWA lab environment. Do not use these techniques on systems without explicit permission.
